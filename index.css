@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-brand-bg: #F5F2ED;
+  --color-brand-text: #4A4238;
+  --color-brand-accent: #A68D71;
+  --color-brand-border: #E8E2D9;
+  --color-brand-olive: #6B705C;
+  --color-brand-dark: #5A5A40;
+  
+  --font-serif: "Georgia", "Noto Serif SC", serif;
+}
